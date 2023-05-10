@@ -35,7 +35,6 @@ import React from "react";
 // };
 
 const Ball = (props) => {
-  console.log(props);
   return (
     <div className="flex justify-center items-center shadow ">
       <img
