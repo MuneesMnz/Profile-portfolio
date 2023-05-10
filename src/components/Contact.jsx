@@ -15,8 +15,34 @@ const Contact = () => {
   });
   const [loading, setLoading] = useState(false);
 
-  const handleChange = () => {};
-  const handleSubmit = () => {};
+  const handleChange = (e) => {
+    const {name,value}=e.target
+    setForm({...form ,[name]:value})
+  };
+  const handleSubmit = (e) => {
+    e.preventDefault()
+    setLoading(true)
+    emailjs.send("service_c0h4szj","template_yc3aing",{
+      from_name:form.name,
+      to_name:"MNZ",
+      from_email:form.email,
+      to_email:"muhammedmuneesmnz@gmail.com",
+      message:form.message
+
+    },"OZ32VP-qqkx7UhsZw").then(()=>{
+      setLoading(false)
+      alert("Thank You ");
+      setForm({
+        name: "",
+        email: "",
+        message: "",
+      })
+    },(error)=>{
+      setLoading(false)
+      console.log(error)
+      alert("Something went wrong ");
+    })
+  };
   return (
     <div >
       <motion.div
