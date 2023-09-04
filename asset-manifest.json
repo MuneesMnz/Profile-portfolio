@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Profile-portfolio/static/css/main.01c9070a.css",
+    "main.js": "/Profile-portfolio/static/js/main.5e74f29a.js",
+    "static/js/787.f2a0fa2f.chunk.js": "/Profile-portfolio/static/js/787.f2a0fa2f.chunk.js",
+    "static/media/tripguide.png": "/Profile-portfolio/static/media/tripguide.991986c795ea140ba063.png",
+    "static/media/herobg.png": "/Profile-portfolio/static/media/herobg.ad33add2430e34307c33.png",
+    "static/media/carrent.png": "/Profile-portfolio/static/media/carrent.6b1e855ede285c40b77f.png",
+    "static/media/jobit.png": "/Profile-portfolio/static/media/jobit.755da7149642fd049273.png",
+    "static/media/one.png": "/Profile-portfolio/static/media/one.a2f51f70597a165b2711.png",
+    "static/media/starbugs.png": "/Profile-portfolio/static/media/starbugs.010799f8c26c849290a9.png",
+    "static/media/web.png": "/Profile-portfolio/static/media/web.23c6ac6084912c54a1a8.png",
+    "static/media/nodejs.png": "/Profile-portfolio/static/media/nodejs.e3e99b06ab0623873e28.png",
+    "static/media/react.png": "/Profile-portfolio/static/media/react.9609f229ec1d853a07c1.png",
+    "static/media/meta.png": "/Profile-portfolio/static/media/meta.6c5b749902b84db3d8b8.png",
+    "static/media/django.png": "/Profile-portfolio/static/media/django.156ce3aa4659e68af2c7.png",
+    "static/media/shopify.png": "/Profile-portfolio/static/media/shopify.2e40fcc722501648889e.png",
+    "static/media/github.png": "/Profile-portfolio/static/media/github.ed1c06d925fff0b57e32.png",
+    "index.html": "/Profile-portfolio/index.html",
+    "static/media/threejs.svg": "/Profile-portfolio/static/media/threejs.34d1dab4caddf9c51437.svg",
+    "main.01c9070a.css.map": "/Profile-portfolio/static/css/main.01c9070a.css.map",
+    "main.5e74f29a.js.map": "/Profile-portfolio/static/js/main.5e74f29a.js.map",
+    "787.f2a0fa2f.chunk.js.map": "/Profile-portfolio/static/js/787.f2a0fa2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01c9070a.css",
+    "static/js/main.5e74f29a.js"
+  ]
+}
